@@ -1,5 +1,5 @@
 {
-    "name": "karmendra/laravel-agent-detector",
+    "name": "omidgfx/laravel-agent-detector",
     "description": "Laravel wrapper for matomo-org/device-detector user agent parser",
     "keywords": ["laravel", "useragent", "agent", "user agent", "browser", "platform", "mobile", "desktop", "device-detector"],
     "homepage": "https://github.com/karmendra/laravel-agent-detector",
